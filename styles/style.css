@@ -1,0 +1,23 @@
+h1{
+    background:linear-gradient(to left, rgb(179, 240, 151), rgb(238, 133, 241));
+    color:white;
+    width:80px;
+    display:inline;
+    font-size: 48px;
+    border-radius: 10px;;
+}
+
+p{
+    font-size: 30px;
+    color:rgb(188, 171, 226);
+    background-color: pink;
+    border: 13px solid blueviolet ;
+    border-radius: 120px;
+    text-align: center;
+
+}
+
+ .brown{
+    color:brown;
+}
+
